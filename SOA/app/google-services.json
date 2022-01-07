@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26485368292",
+    "project_id": "binus-soa-tk1",
+    "storage_bucket": "binus-soa-tk1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26485368292:android:39e8834fa94f2aa6de93f1",
+        "android_client_info": {
+          "package_name": "com.example.soa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26485368292-lla5fqll1fgobo6t13rk4ombflolujja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM8YERlT60pRKTJysQ0sjFTX8iCzc23RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26485368292-lla5fqll1fgobo6t13rk4ombflolujja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
